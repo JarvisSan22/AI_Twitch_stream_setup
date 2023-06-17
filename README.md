@@ -3,11 +3,12 @@ AI Vtuber Twitch stream setup code and how to. Example Raylene the AI cat goddes
 
 (Raylene image goes here )
 # Code summary 
-・GPTBOT.py
-・Twitch_Chat.py
-・dashboard.py
-・NB_Promt.pynb
-・sample_env 
+
+- GPTBOT.py
+- Twitch_Chat.py
+- dashboard.py
+- NB_Promt.pynb
+- sample_env
 
 
 # Setup 
