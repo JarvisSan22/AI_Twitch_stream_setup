@@ -1,0 +1,7 @@
+OPENAI_API_KEY=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
+#Twitch servers aurh
+server=irc.chat.twitch.tv
+port=6667
+nickname=nekokyou
+token=oauth:nfe4cpcn0vt02uh2278chff6zbq1f9
+channel=jarvissan23
