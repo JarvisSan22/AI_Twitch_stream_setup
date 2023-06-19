@@ -1,4 +1,4 @@
-# AI_Twitch_stream_setup
+# AI_Twitch_stream_setup (Repo Creation 作成中）
 AI Vtuber Twitch stream setup code and how to. Example Raylene the AI cat goddess 
 
 (Raylene image goes here )
